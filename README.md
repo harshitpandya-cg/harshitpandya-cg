@@ -1,35 +1,46 @@
-<h1 align="center">Hi 👋, I'm Harshit Pandya</h1>
+<h1 align="center">𝑯𝒊 👋, 𝑰'𝒎 𝑯𝒂𝒓𝒔𝒉𝒊𝒕 𝑷𝒂𝒏𝒅𝒚𝒂</h1>
+
+<h3 align="center">🚀 𝑭𝒖𝒍𝒍 𝑺𝒕𝒂𝒄𝒌 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 | 𝑴𝑬𝑹𝑵 𝑺𝒕𝒂𝒄𝒌 𝑬𝒏𝒕𝒉𝒖𝒔𝒊𝒂𝒔𝒕</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;MERN+Stack+Learner;Building+Real+World+Projects;Learning+Node.js+and+Backend+Development&center=true&width=500&height=50">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;MERN+Stack+Learner;Building+Real+World+Projects;Learning+Backend+Development&center=true&width=500&height=50">
 </p>
 
-<h3 align="center">A passionate Full Stack Developer focused on creating responsive and user-friendly web applications. Experienced with JavaScript, React, Node.js, and modern web technologies. I enjoy solving problems and building real-world projects that improve my skills.</h3>
+<p align="center">
+<a href="https://harshit-pandya-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/🌐%20Visit%20Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-# 🚀 About Me
+<h2 align="center">🧑‍💻 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆</h2>
 
-* 🔭 I’m currently working on **Creating Web Applications and REST APIs with Node.js & Express**
-* 🌱 I’m currently learning **Node.js, Express.js, MongoDB, and Full Stack Development**
-* 👨‍💻 All of my projects are available at
-  **https://github.com/harshitpandya-cg**
-* 💬 Expertise in **HTML | CSS | JavaScript | React | Node.js | Problem Solving**
-* 📫 Reach me at **[harshitpandya073@gmail.com](mailto:harshitpandya073@gmail.com)**
-* ⚡ Fun fact: **I love building websites and learning new technologies every day**
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+* 🔭 𝑪𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒃𝒖𝒊𝒍𝒅𝒊𝒏𝒈 **𝑺𝒄𝒂𝒍𝒂𝒃𝒍𝒆 𝑾𝒆𝒃 𝑨𝒑𝒑𝒔 & 𝑹𝑬𝑺𝑻 𝑨𝑷𝑰𝒔**
+* 🌱 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈 **𝑵𝒐𝒅𝒆.𝒋𝒔, 𝑬𝒙𝒑𝒓𝒆𝒔𝒔, 𝑴𝒐𝒏𝒈𝒐𝑫𝑩**
+* 💡 𝑷𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆 𝒂𝒃𝒐𝒖𝒕 **𝑷𝒓𝒐𝒃𝒍𝒆𝒎 𝑺𝒐𝒍𝒗𝒊𝒏𝒈**
+* 💬 𝑺𝒌𝒊𝒍𝒍𝒔: **HTML | CSS | JavaScript | React | Node.js**
+* 📫 𝑬𝒎𝒂𝒊𝒍: **[harshitpandya073@gmail.com](mailto:harshitpandya073@gmail.com)**
+* 🌐 𝑷𝒐𝒓𝒕𝒇𝒐𝒍𝒊𝒐: **https://harshit-pandya-portfolio.vercel.app/**
 
 ---
 
-# 🌐 Connect With Me
+<h2 align="center">🌐 𝑪𝒐𝒏𝒏𝒆𝒄𝒕 𝑾𝒊𝒕𝒉 𝑴𝒆</h2>
 
 <p align="center">
 
-<a href="https://twitter.com/harshitp68223">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+<a href="https://your-portfolio-link.com">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/harshitpandya2911/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://twitter.com/harshitp68223">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
 
 <a href="https://www.youtube.com/@harshitpandya2911">
@@ -40,79 +51,50 @@
 
 ---
 
-# 🚀 Languages and Tools
+<h2 align="center">⚡ 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌</h2>
 
----
-
-## 🎨 Frontend
+<h3 align="center">🎨 𝑭𝒓𝒐𝒏𝒕𝒆𝒏𝒅</h3>
 
 <p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<h3 align="center">⚙️ 𝑩𝒂𝒄𝒌𝒆𝒏𝒅</h3>
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+<h3 align="center">🛠 𝑻𝒐𝒐𝒍𝒔</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vercel,netlify" />
 </p>
 
 ---
 
-## ⚙️ Backend
+<h2 align="center">📊 𝑮𝒊𝒕𝑯𝒖𝒃 𝑺𝒕𝒂𝒕𝒔</h2>
 
 <p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=harshitpandya-cg&show_icons=true&theme=tokyonight&border_radius=10"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitpandya-cg&theme=tokyonight&border_radius=10"/>
+</p>
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge"/>
-
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitpandya-cg&layout=compact&theme=tokyonight&border_radius=10"/>
 </p>
 
 ---
 
-## 🛠 Tools
+<h2 align="center">📈 𝑪𝒐𝒏𝒕𝒓𝒊𝒃𝒖𝒕𝒊𝒐𝒏</h2>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-
-</p>
-
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=harshitpandya-cg&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitpandya-cg&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitpandya-cg&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitpandya-cg&theme=tokyo-night"/>
-
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+<h2 align="center">🐍 𝑺𝒏𝒂𝒌𝒆 𝑮𝒂𝒎𝒆</h2>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
